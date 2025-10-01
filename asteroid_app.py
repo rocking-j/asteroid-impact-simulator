@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # Title
-st.title("🌍 Asteroid Impact Simulator")
+st.title("☄️Asteroid Impact Simulator")
 st.markdown("""
 Welcome to the interactive asteroid impact simulator!  
 
@@ -235,3 +235,4 @@ if submit:
 
 else:
     st.info(" Set parameters and click 'Run Simulation' to begin.")
+
